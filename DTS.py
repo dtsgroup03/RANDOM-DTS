@@ -92,7 +92,7 @@ def logo():
 ╠══[Telegram           • ₣ΔĆ€βØØҜ ᵀʰʳᵉˢʰᵒˡᵈ βØØŞŦ]    ║  \033[1;97m  
 ╠══[Admin                • \33[@dtsthresholdadmin]     ║\33[1;35m   
 ╠══[Admin                • dtsthresholdadmin2]  ║\33[1;36m 
-╠══[ Admin               • Dx Parvej  ]        ║ \33[1;34m   
+╠══[ Admin               • dtsthresholdadmin3  ]        ║ \33[1;34m   
 ╠══[VERSION           • 2.0 ]         ║\033[1;31m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
 ############------[ RANDOM NUM ]------#########
