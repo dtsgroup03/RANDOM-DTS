@@ -53,7 +53,7 @@ def line():
 ############------[ RANDOM SYS ]------#########
 BDX=f"{W}BD SIM CODE : {G}017 015 018 019 013 016{E}{W}"
 INDX=f"{W}IND SIM CODE : {G}9670 9725 8948 8795 6383{E}{W}"
-PAKX=f"{W}PAK SIM CODE : {G}0306 0315 0335 0345 0318{E}{W}"
+PAKX=f"{W} MOROCCO SIM CODE : {G}212{E}{W}"
 LIMITX=f"EXAMPLE : {G}1000{W},{G}5000{W},{G}10000{W},{G}15000{W},{G}20000{W}"
 ############------[ A SYS ]------#########
 CPG=f"[{G}+{W}] Do you went show cp account (y/n)"
@@ -89,11 +89,11 @@ def logo():
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
 ╠══[Author                • \33[1;38mDTS GROUP]\33[1;38m        ║\033[1;31m 
-╠══[Telegram           • ₣ΔĆ€βØØҜ ᵀʰʳᵉˢʰᵒˡᵈ βØØŞŦ]    ║  \033[1;97m  
-╠══[Admin                • \33[@dtsthresholdadmin]     ║\33[1;35m   
-╠══[Admin                • dtsthresholdadmin2]  ║\33[1;36m 
-╠══[ Admin               • dtsthresholdadmin3  ]        ║ \33[1;34m   
-╠══[VERSION           • 2.0 ]         ║\033[1;31m 
+╠══[Telegram           • ₣ΔĆ€βØØҜ ᵀʰʳᵉˢʰᵒˡᵈ βØØŞŦ]                 ║  \033[1;97m  
+╠══[Admin                • \33[@dtsthresholdadmin]              ║\33[1;35m   
+╠══[Admin                • dtsthresholdadmin2]                  ║\33[1;36m 
+╠══[ Admin               • dtsthresholdadmin3  ]                ║ \33[1;34m   
+╠══[VERSION           • 2.0 ]                                   ║\033[1;31m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
 ############------[ RANDOM NUM ]------#########
 def Main():
